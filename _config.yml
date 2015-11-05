@@ -1,0 +1,23 @@
+name: Shot Reverse Shot
+favicon: null
+layout_spectrum: 0.03448756784200668
+typography_spectrum: 0.7719672650564462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.097768344450742
+  lightness: 0.6637964027468115
+  saturation: 0.7134098368696868
+  rhythmicContrast: 0.7699339708779007
+purpose: []
